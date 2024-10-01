@@ -1,0 +1,4 @@
+.giocatore {
+    background-image: url('./personaggio.png'); /* Nome del file immagine del giocatore */
+    background-size: cover;
+}

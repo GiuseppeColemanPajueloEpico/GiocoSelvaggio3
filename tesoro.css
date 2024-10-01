@@ -1,0 +1,4 @@
+.tesoro {
+    background-image: url('./tesoro.png'); /* Nome del file immagine del tesoro */
+    background-size: cover;
+}

@@ -1,0 +1,4 @@
+.parete { 
+    background-image: url('./parete.png'); /* Sostituisci con il percorso corretto dell'immagine */
+    background-size: cover; /* Assicura che l'immagine riempia l'intera cella */
+}
